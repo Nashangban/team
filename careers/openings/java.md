@@ -17,7 +17,7 @@
 ## 职位优势：
 - 代码托管: Github 
 - 项目构建：Gradle
-- 开发模式：前后端分离, 基于REST API为接口开发
+- 开发模式：前后端分离, 基于REST API接口开发
 - 前端isomorphic架构：React + Redux + Webpack 
 - 后端Microservice架构：SpringBoot + Dubble + Zookeeper + Nginx + HAProxy
 - 集成/布署CI/CD: Jenkins + Docker
