@@ -1,18 +1,17 @@
-# Java 高级开发工程师
+# Java 开发工程师
 
 ## 职位描述：
-全程参与产品沟通，需求分析，方案设计，开发
+全程参与产品沟通，需求分析，设计与开发.
 
 ## 任职要求：
-- 3 年以上 Java 开发经验， 2 年以上 Web 经验
-- 熟悉 RESTful API 规范，了解 Open API 标准，使用过 Swagger，熟悉 HTTP 协议
-- 熟悉 Linux 系统，熟悉 Nginx 配置，熟悉 MySQL 数据库，熟悉自动化部署
-- 具备需求分析 /系统设计能力
-- 熟悉 MVC 模式，熟练掌握 Spring，Struts，Hibernate 或 MyBatis 等框架
-- 熟悉并有工作流引擎，Dubbo，MQ，任务引擎开发经验的优先考虑
-- 良好的面向对象的分析和设计基础，具有 OO 经验和设计模式
-- 熟练掌握 Tomcat/JBoss 等服务器
-- 工作积极主动，具备较强的责任感且有优秀的分析能力，能承受较大的工作压力
+- 3年以上Java经验，2年以上Web Service经验
+- 扎实的面向对象分析和设计基础，设计模式
+- 熟悉SSM/H开发框架：SpringBoot/Spring + SpringMVC + Mybatis/Hibernate
+- 熟悉RESTful API规范，并使用过Swagger生成API文档或SwaggerHub进行API文档设计
+- 熟悉分布式系统，服务治理框架，如Dubbo
+- 熟悉Linux系统，Nginx配置，MySQL数据库和自动化部署
+- 熟悉并有工作流引擎，MQ，任务引擎开发经验的优先考虑
+- 工作积极主动，快速的学习能力，并具备较强的责任感且有优秀的分析能力
 
 ## 职位亮点：
 - 使用 Github 托管代码
