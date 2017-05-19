@@ -12,6 +12,7 @@
 - 熟悉 SSM/H开 发框架：SpringBoot/Spring + SpringMVC/Struts + Mybatis/Hibernate
 - 熟悉 RESTful API 规范，并使用过 Swagger 生成 API 文档或 SwaggerHub 进行 API 文档设计
 - 熟悉分布式系统，了解或使用过服务治理框架如 Dubbo
+- 熟练使用 Git 并熟悉 Pull Request 工作流
 - 熟悉 Linux 系统，Nginx 配置，MySQL 数据库和自动化部署
 
 ## 职位优势：
