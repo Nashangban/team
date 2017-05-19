@@ -6,20 +6,20 @@
 - 与团队共同建设工程师驱动文化
 
 ## 任职要求：
-- 3年以上Java经验，2年以上Web Service经验
+- 3 年以上 Java 经验，2 年以上 Web Service 经验
 - 扎实的面向对象分析和设计基础，良好的编码习惯，有代码洁癖更佳
 - 强烈的主人翁精神，快速的技术学习能力，独立思考精神和良好的沟通能力
-- 熟悉SSM/H开发框架：SpringBoot/Spring + SpringMVC/Struts + Mybatis/Hibernate
-- 熟悉RESTful API规范，并使用过Swagger生成API文档或SwaggerHub进行API文档设计
-- 熟悉分布式系统，了解或使用过服务治理框架如Dubbo
-- 熟悉Linux系统，Nginx配置，MySQL数据库和自动化部署
+- 熟悉 SSM/H开 发框架：SpringBoot/Spring + SpringMVC/Struts + Mybatis/Hibernate
+- 熟悉 RESTful API 规范，并使用过 Swagger 生成 API 文档或 SwaggerHub 进行 API 文档设计
+- 熟悉分布式系统，了解或使用过服务治理框架如 Dubbo
+- 熟悉 Linux 系统，Nginx 配置，MySQL 数据库和自动化部署
 
 ## 职位优势：
 - 代码托管：Github 
 - 项目构建：Gradle
 - 开发模式：前后端分离, 基于REST API接口开发
-- 前端isomorphic架构：React + Redux + Webpack 
-- 后端Microservice架构：SpringBoot + Dubble + Zookeeper + Nginx + HAProxy
+- 前端 isomorphic 架构：React + Redux + Webpack 
+- 后端 Microservice 架构：SpringBoot + Dubbo + Zookeeper + Nginx + HAProxy
 - 集成/布署CI/CD: Jenkins + Docker
 
 ## 加分项：
