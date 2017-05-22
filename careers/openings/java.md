@@ -19,11 +19,11 @@
 
 ## 职位优势：
 - 代码托管：GitHub
-- 项目构建：Gradle
 - 开发模式：前后端分离, 基于 RESTful API 接口开发
-- 前端：React + Redux + Webpack + Ant Design
 - 后端微服务：SpringBoot + Dubbo + Zookeeper + Nginx + HAProxy
 - 持续集成与部署：Jenkins + Docker
+- 办公室默认翻墙，告别百度
+- 相互 code review，一同进步成长
 
 ## 加分项：
 - 追求代码整洁，拼写规范
